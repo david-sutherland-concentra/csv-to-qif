@@ -1,0 +1,299 @@
+!Type:Invst
+D7/ 4'23
+NContribX
+PDs Bmois Sibm
+CR
+U150.00
+T150.00
+L[BMO - Chequing]
+$150.00
+^
+D7/10'23
+NDiv
+YBMO Low Volatility US Equity
+CR
+U333.99
+T333.99
+^
+D7/10'23
+NDiv
+YBMO S&P 500 Hedged To CAD Index
+CR
+U136.84
+T136.84
+^
+D7/10'23
+NDiv
+YBMO S&P/TSX Capped Composite Index
+CR
+U524.17
+T524.17
+^
+D7/10'23
+NDiv
+YBMO Low Volatility CAD Equity
+CR
+U203.56
+T203.56
+^
+D7/10'23
+NDiv
+YBMO MSCI EAFE Hedged to CAD Index
+CR
+U760.80
+T760.80
+^
+D7/10'23
+NIntInc
+YBMO Aggregate Bond Index ETF
+CR
+U618.84
+T618.84
+^
+D7/10'23
+NIntInc
+YBMO Real Return Bond Index
+CR
+U199.04
+T199.04
+^
+D7/10'23
+NBuy
+YiShares Russel 2000 Index
+I37.05
+Q3
+CR
+U111.15
+T111.15
+^
+D7/10'23
+NBuy
+YBMO MSCI EAFE Hedged to CAD Index
+I26.02
+Q29
+CR
+U754.58
+T754.58
+^
+D7/10'23
+NBuy
+YBMO Low Volatility CAD Equity
+I41.5725
+Q4
+CR
+U166.29
+T166.29
+^
+D7/10'23
+NBuy
+YBMO Real Return Bond Index
+I14.66
+Q13
+CR
+U190.58
+T190.58
+^
+D7/10'23
+NBuy
+YBMO Aggregate Bond Index ETF
+I13.419783
+Q46
+CR
+U617.31
+T617.31
+^
+D7/10'23
+NBuy
+YBMO Low Volatility US Equity
+I46.65
+Q7
+CR
+U326.55
+T326.55
+^
+D7/10'23
+NBuy
+YBMO S&P 500 Hedged To CAD Index
+I62.36
+Q2
+CR
+U124.72
+T124.72
+^
+D7/10'23
+NBuy
+YBMO S&P/TSX Capped Composite Index
+I26.92
+Q19
+CR
+U511.48
+T511.48
+^
+D7/11'23
+NContribX
+PDs Bmois Sibm
+CR
+U150.00
+T150.00
+L[BMO - Chequing]
+$150.00
+^
+D7/18'23
+NContribX
+PDs Bmois Sibm
+CR
+U150.00
+T150.00
+L[BMO - Chequing]
+$150.00
+^
+D7/25'23
+NContribX
+PDs Bmois Sibm
+CR
+U150.00
+T150.00
+L[BMO - Chequing]
+$150.00
+^
+D7/28'23
+NBuy
+YBMO Real Return Bond Index
+I14.22
+Q100
+CR
+U1,431.95
+T1,431.95
+O9.95
+^
+D8/ 1'23
+NContribX
+PDs Bmois Sibm
+CR
+U150.00
+T150.00
+L[BMO - Chequing]
+$150.00
+^
+D8/ 2'23
+NSell
+YBMO MSCI EAFE Hedged to CAD Index
+I26.145
+Q100
+CR
+U2,614.50
+T2,614.50
+^
+D8/ 2'23
+NBuy
+YBMO Real Return Bond Index
+I14.07
+Q200
+CR
+U2,823.95
+T2,823.95
+O9.95
+^
+D8/ 8'23
+NContribX
+PDs Bmois Sibm
+CR
+U150.00
+T150.00
+L[BMO - Chequing]
+$150.00
+^
+D8/ 9'23
+NIntInc
+YBMO Aggregate Bond Index ETF
+CR
+U620.68
+T620.68
+^
+D8/ 9'23
+NIntInc
+YBMO Real Return Bond Index
+CR
+U200.08
+T200.08
+^
+D8/ 9'23
+NBuy
+YBMO Aggregate Bond Index ETF
+I13.22
+Q46
+CR
+U608.12
+T608.12
+^
+D8/ 9'23
+NBuy
+YBMO Real Return Bond Index
+I14.06
+Q14
+CR
+U196.84
+T196.84
+^
+D8/15'23
+NContribX
+PDs Bmois Sibm
+CR
+U150.00
+T150.00
+L[BMO - Chequing]
+$150.00
+^
+D9/ 8'23
+NIntInc
+YBMO Aggregate Bond Index ETF
+U622.52
+T622.52
+^
+D9/ 8'23
+NIntInc
+YBMO Real Return Bond Index
+U225.20
+T225.20
+^
+D9/ 8'23
+NBuy
+YBMO Aggregate Bond Index ETF
+I13.17
+Q47
+U618.99
+T618.99
+^
+D9/ 8'23
+NBuy
+YBMO Real Return Bond Index
+I13.89
+Q16
+U222.24
+T222.24
+^
+D9/15'23
+NBuy
+YBMO Real Return Bond Index
+I13.85
+Q70
+U979.45
+T979.45
+O9.95
+^
+D10/17'23
+NXIn
+PBMOIL RRSP - David
+U150.00
+T150.00
+L[BMO - Savings]/Investing
+$150.00
+^
+D10/24'23
+NXIn
+PBMOIL RRSP - David
+U150.00
+T150.00
+L[BMO - Savings]/Investing
+$150.00
+^

@@ -1,0 +1,60 @@
+!Type:Security
+NBMO Aggregate Bond Index ETF
+SZAG
+TETF
+^
+!Type:Security
+NBMO Emerging Markets Bond
+SZEF
+TETF
+^
+!Type:Security
+NBMO Equal Weight REIT Index
+SZRE
+TETF
+^
+!Type:Security
+NBMO GROWTH CAD UNT ETF
+SZGRO
+TETF
+^
+!Type:Security
+NBMO Long Federal Bond Index
+SZFL
+TETF
+^
+!Type:Security
+NBMO Low Volatility CAD Equity
+SZLB
+TETF
+^
+!Type:Security
+NBMO Low Volatility US Equity
+SZLU
+TStock
+^
+!Type:Security
+NBMO MSCI EAFE Hedged to CAD Index
+SZDM
+TETF
+^
+!Type:Security
+NBMO MSCI Emerging Markets Index
+SZEM
+TETF
+^
+!Type:Security
+NBMO Real Return Bond Index
+SZRR
+TStock
+^
+!Type:Security
+NBMO S&P 500 Hedged To CAD Index
+SZUE
+TETF
+^
+!Type:Security
+NBMO S&P/TSX Capped Composite Index
+SZCN
+TETF
+^

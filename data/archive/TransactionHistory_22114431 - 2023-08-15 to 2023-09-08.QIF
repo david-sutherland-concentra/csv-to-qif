@@ -1,0 +1,38 @@
+!Type:Invst
+D8/15'23
+NContribX
+PDs Bmois Sibm
+CR
+U150.00
+T150.00
+L[BMO - Chequing]
+$150.00
+^
+D9/ 8'23
+NIntInc
+YBMO Aggregate Bond Index ETF
+U622.52
+T622.52
+^
+D9/ 8'23
+NIntInc
+YBMO Real Return Bond Index
+U225.20
+T225.20
+^
+D9/ 8'23
+NBuy
+YBMO Aggregate Bond Index ETF
+I13.17
+Q47
+U618.99
+T618.99
+^
+D9/ 8'23
+NBuy
+YBMO Real Return Bond Index
+I13.89
+Q16
+U222.24
+T222.24
+^
