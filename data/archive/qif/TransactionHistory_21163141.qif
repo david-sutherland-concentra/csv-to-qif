@@ -1,0 +1,40 @@
+!Type:Invst
+D01/09/2024
+NBuy
+YBMO Aggregate Bond Index ETF
+I13.75
+Q1
+T13.75
+^
+D01/09/2024
+NBuy
+YBMO S&P/TSX Capped Composite Index
+I27.82
+Q3
+T83.45
+^
+D01/03/2024
+NDiv
+YBMO S&P/TSX Capped Composite Index
+I0
+Q404
+^
+D01/03/2024
+NIntInc
+YBMO Aggregate Bond Index ETF
+I0
+T22.16
+^
+D12/08/2023
+NBuy
+YBMO Aggregate Bond Index ETF
+I13.51
+Q1
+T13.51
+^
+D12/04/2023
+NIntInc
+YBMO Aggregate Bond Index ETF
+I0
+T22.12
+^

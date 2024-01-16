@@ -52,12 +52,13 @@ def convert_csv_to_qif_with_reinvestment(csv_file_path, qif_file_path, security_
                 qif_file.write("Q{:.0f}\n".format(quantity))
                 qif_file.write("T{:.2f}\n".format(total_amount))
             else:
-                # Add Price, Quantity, Total Amount for IntInc and Div transactions
+                # Add Price, Quantity for IntInc and Div transactions
                 qif_file.write("I" + row['Price'] + "\n")
                 if transaction_type != 'IntInc':
                     qif_file.write("Q" + row['Quantity'] + "\n")
-                if transaction_type != 'Div':
-                    qif_file.write("T" + row['Total Amount'] + "\n")
+
+                # Add Total Amount for Div transactions
+                qif_file.write("T" + row['Total Amount'] + "\n")
 
             # End of entry
             qif_file.write("^\n")
@@ -65,8 +66,8 @@ def convert_csv_to_qif_with_reinvestment(csv_file_path, qif_file_path, security_
     print(f"Conversion complete. QIF file saved as: {qif_file_path}")
 
 # File paths (these need to be set by the user)
-csv_file_path = 'C:\DEV\Personal\Projects\csv-to-qif\data\TransactionHistory_22114431 - Reinvestments - 2023-10-01 to 2023-12-12.csv'
-qif_file_path = 'C:\DEV\Personal\Projects\csv-to-qif\data\TransactionHistory_22114431 - Reinvestments - 2023-10-01 to 2023-12-12.qif'
+csv_file_path = 'C:\DEV\Personal\Projects\csv-to-qif\data\TransactionHistory_21185619 - 2021-10.csv'
+qif_file_path = 'C:\DEV\Personal\Projects\csv-to-qif\data\TransactionHistory_21185619 - 2021-10.qif'
 security_list_path = 'C:\DEV\Personal\Projects\csv-to-qif\data\Quicken Export Security List.QIF'
 
 # Perform the conversion
